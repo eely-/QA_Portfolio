@@ -17,7 +17,7 @@ Please feel free to have a look around,
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishmaeel-s-01534b209/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ishmaeel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishmaeel-s-01534b209/)
 
 - ---
 
