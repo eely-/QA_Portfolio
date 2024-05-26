@@ -7,10 +7,6 @@ Please feel free to have a look around,
 - My latest Resume is in the Resume Folder !
 - To see some cool projects I'm working on checkout the Projects Folder
 
-<div align="center">
-  <img src="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO" width="600" height="300"/>
-</div>
-
 - :telescope: I’m working as a Quality Analyst/Engineer and contributing to Web, Desktop and Mobile applications.
 
 - :seedling: Exploring New test Automation Tools.
