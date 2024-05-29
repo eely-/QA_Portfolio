@@ -5,7 +5,7 @@ Hello ! Welcome to my QA Portfolio !
 Please feel free to have a look around,
 
 - My latest Resume is in the Resume Folder !
-- To see some cool projects I'm working on checkout the Projects Folder
+- To see some cool projects I'm working on checkout the Projects Folder(WIP)
 
 - :telescope: I’m working as a Quality Analyst/Engineer and contributing to Web, Desktop and Mobile applications.
 
