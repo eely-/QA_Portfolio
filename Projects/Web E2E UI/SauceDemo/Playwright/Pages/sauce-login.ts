@@ -1,6 +1,6 @@
 import {expect,type Locator, type Page} from '@playwright/test';
 
-export class SauceLoginPage {
+export class LoginPage {
     readonly page: Page;
     readonly userNameField: Locator;
     readonly PasswordField: Locator;
@@ -16,4 +16,11 @@ constructor(page: Page) {
 async goto(){
     await this.page.goto('https://www.saucedemo.com/')
 }
+
+async login(username: string, password: string) {
+    await this.userNameField.fill(username);
+    await this.PasswordField.fill(password);
+    await this.LoginButton.click();
+  }
+
 }

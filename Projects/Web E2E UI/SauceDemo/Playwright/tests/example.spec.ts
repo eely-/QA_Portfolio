@@ -1,8 +1,8 @@
 import { test, expect } from '@playwright/test';
-import { SauceLoginPage } from '../Pages/sauce-login';
+import { LoginPage } from '../Pages/sauce-login';
 
 test('has title', async ({ page }) => {
-  const SauceLogin = new SauceLoginPage(page);
+  const SauceLogin = new LoginPage(page);
   await SauceLogin.goto();
 
   // Expect a title "to contain" a substring.
@@ -10,7 +10,7 @@ test('has title', async ({ page }) => {
 });
 
 test('Login', async ({ page }) => {
-  const SauceLogin = new SauceLoginPage(page);
+  const SauceLogin = new LoginPage(page);
   await SauceLogin.goto();
 
 
